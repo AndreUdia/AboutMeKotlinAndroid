@@ -1,6 +1,28 @@
 <resources>
     <string name="app_name">About me</string>
     <string name="name">Andre Souto</string>
-    <string name="name">Andre Souto</string>
     <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Andre \n\n
+        I am starting to learn kotlin and is been exciting so far, lots of thing to lear though,
+        it has added a lot of new features over java and it is much easier to write, this is my second
+        project from a Udacity course I have found for free, with lots of instructors from google team,
+        has been amazing so far, now I am writing this text so to fill a part of a bio from an app that
+        is utilizing of scroll view. I will repeat this text as I have nothing to say for now. \n
+        I am starting to learn kotlin and is been exciting so far, lots of thing to lear though,
+        it has added a lot of new features over java and it is much easier to write, this is my second
+        project from a Udacity course I have found for free, with lots of instructors from google team,
+        has been amazing so far, now I am writing this text so to fill a part of a bio from an app that
+        is utilizing of scroll view. I will repeat this text as I have nothing to say for now. \n
+        I am starting to learn kotlin and is been exciting so far, lots of thing to lear though,
+        it has added a lot of new features over java and it is much easier to write, this is my second
+        project from a Udacity course I have found for free, with lots of instructors from google team,
+        has been amazing so far, now I am writing this text so to fill a part of a bio from an app that
+        is utilizing of scroll view. I will repeat this text as I have nothing to say for now. \n
+        I am starting to learn kotlin and is been exciting so far, lots of thing to lear though,
+        it has added a lot of new features over java and it is much easier to write, this is my second
+        project from a Udacity course I have found for free, with lots of instructors from google team,
+        has been amazing so far, now I am writing this text so to fill a part of a bio from an app that
+        is utilizing of scroll view. I will repeat this text as I have nothing to say for now. \n
+    </string>
 </resources>
